@@ -1,0 +1,28 @@
+2024/07/12-10:59:48.122 1d00 Reusing MANIFEST D:\Rafael\Trabalhos\BeCoders\DisparoEmMassa\user_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-10:59:48.123 1d00 Recovering log #78
+2024/07/12-10:59:48.129 1d00 Reusing old log D:\Rafael\Trabalhos\BeCoders\DisparoEmMassa\user_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000078.log 
+2024/07/12-10:59:49.499 3390 Level-0 table #84: started
+2024/07/12-10:59:49.504 3390 Level-0 table #84: 149553 bytes OK
+2024/07/12-10:59:49.506 3390 Delete type=0 #78
+2024/07/12-10:59:49.506 1d00 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/12-10:59:50.958 3390 Compacting 1@1 + 2@2 files
+2024/07/12-10:59:51.054 3390 Generated table #85@1: 39634 keys, 2202509 bytes
+2024/07/12-10:59:51.097 3390 Generated table #86@1: 26571 keys, 537059 bytes
+2024/07/12-10:59:51.097 3390 Compacted 1@1 + 2@2 files => 2739568 bytes
+2024/07/12-10:59:51.098 3390 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/12-11:00:09.207 3b60 Level-0 table #88: started
+2024/07/12-11:00:09.212 3b60 Level-0 table #88: 139357 bytes OK
+2024/07/12-11:00:09.213 3b60 Delete type=2 #80
+2024/07/12-11:00:09.214 3b60 Delete type=2 #81
+2024/07/12-11:00:09.214 3b60 Delete type=0 #83
+2024/07/12-11:00:09.214 3b60 Delete type=2 #84
+2024/07/12-11:00:09.215 1d00 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/12-11:00:10.948 1d00 Compacting 1@1 + 2@2 files
+2024/07/12-11:00:11.043 1d00 Generated table #89@1: 38718 keys, 2199767 bytes
+2024/07/12-11:00:11.094 1d00 Generated table #90@1: 28702 keys, 578799 bytes
+2024/07/12-11:00:11.094 1d00 Compacted 1@1 + 2@2 files => 2778566 bytes
+2024/07/12-11:00:11.095 1d00 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/12-11:00:11.096 1d00 Delete type=2 #85
+2024/07/12-11:00:11.096 1d00 Delete type=2 #86
+2024/07/12-11:00:11.096 1d00 Delete type=2 #88
+2024/07/12-11:00:39.819 3ea8 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
